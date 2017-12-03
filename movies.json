@@ -1,0 +1,77 @@
+{ 
+    "_id" : ObjectId("59e244e21e0cbab07a1f820f"), 
+    "movie_name" : "Kingsman: The Golden Circle", 
+    "image" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNTBlOWZhZTctOTY0MC00Y2QyLTljMmYtZDkxZDFlMWU4Y2EyXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_UX67_CR0,0,67,98_AL_.jpg", 
+    "rating" : 7.8, 
+    "release_year" : NumberInt(2017), 
+    "genre" : "Action, Adventure, Comedy", 
+    "running_time" : NumberInt(141), 
+    "createdAt" : ISODate("2017-10-14T17:09:54.400+0000"), 
+    "updatedAt" : ISODate("2017-10-14T17:10:43.824+0000")
+}
+{ 
+    "_id" : ObjectId("59e244e21e0cbab07a1f8210"), 
+    "movie_name" : "Blade Runner 2049", 
+    "image" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_UX67_CR0,0,67,98_AL_.jpg", 
+    "rating" : 8.5, 
+    "release_year" : NumberInt(2017), 
+    "genre" : "Mystery, Sci-Fi, Thriller", 
+    "running_time" : NumberInt(164), 
+    "createdAt" : ISODate("2017-10-14T17:09:54.406+0000"), 
+    "updatedAt" : ISODate("2017-10-14T17:09:54.406+0000")
+}
+{ 
+    "_id" : ObjectId("59e244e21e0cbab07a1f8211"), 
+    "movie_name" : "It", 
+    "image" : "https://images-na.ssl-images-amazon.com/images/M/MV5BOTE0NWEyNDYtYWI5MC00MWY0LTg1NDctZjAwMjkyMWJiNzk1XkEyXkFqcGdeQXVyNjk5NDA3OTk@._V1_UX67_CR0,0,67,98_AL_.jpg", 
+    "rating" : 7.8, 
+    "release_year" : NumberInt(2017), 
+    "genre" : "Drama, Horror, Thriller", 
+    "running_time" : NumberInt(135), 
+    "createdAt" : ISODate("2017-10-14T17:09:54.408+0000"), 
+    "updatedAt" : ISODate("2017-10-14T17:09:54.408+0000")
+}
+{ 
+    "_id" : ObjectId("59e244e21e0cbab07a1f8212"), 
+    "movie_name" : "Spider-Man: Homecoming", 
+    "image" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_UX67_CR0,0,67,98_AL_.jpg", 
+    "rating" : 7.7, 
+    "release_year" : NumberInt(2017), 
+    "genre" : "Action, Adventure, Sci-Fi", 
+    "running_time" : NumberInt(133), 
+    "createdAt" : ISODate("2017-10-14T17:09:54.408+0000"), 
+    "updatedAt" : ISODate("2017-10-14T17:09:54.408+0000")
+}
+{ 
+    "_id" : ObjectId("59e244e21e0cbab07a1f8213"), 
+    "movie_name" : "Wonder Woman", 
+    "image" : "https://images-na.ssl-images-amazon.com/images/M/MV5BNDFmZjgyMTEtYTk5MC00NmY0LWJhZjktOWY2MzI5YjkzODNlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX67_CR0,0,67,98_AL_.jpg", 
+    "rating" : 7.6, 
+    "release_year" : NumberInt(2017), 
+    "genre" : "Action, Adventure, Fantasy", 
+    "running_time" : NumberInt(141), 
+    "createdAt" : ISODate("2017-10-14T17:09:54.408+0000"), 
+    "updatedAt" : ISODate("2017-10-14T17:09:54.408+0000")
+}
+{ 
+    "_id" : ObjectId("59e244e21e0cbab07a1f8214"), 
+    "movie_name" : "Star Wars: The Last Jedi", 
+    "image" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_UX67_CR0,0,67,98_AL_.jpg", 
+    "rating" : 7.6, 
+    "release_year" : NumberInt(2017), 
+    "genre" : "Action, Adventure, Fantasy", 
+    "running_time" : NumberInt(150), 
+    "createdAt" : ISODate("2017-10-14T17:09:54.408+0000"), 
+    "updatedAt" : ISODate("2017-10-14T17:09:54.408+0000")
+}
+{ 
+    "_id" : ObjectId("59e244ff1e0cbab07a1f8215"), 
+    "movie_name" : " Transformers: The Last Knight", 
+    "image" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3OTI3MDk4N15BMl5BanBnXkFtZTgwNDg2ODIyMjI@._V1_UX67_CR0,0,67,98_AL_.jpg", 
+    "rating" : 5.2, 
+    "release_year" : NumberInt(2017), 
+    "genre" : "Action, Adventure, Sci-Fi", 
+    "running_time" : NumberInt(149), 
+    "createdAt" : ISODate("2017-10-14T17:10:23.053+0000"), 
+    "updatedAt" : ISODate("2017-10-14T17:10:23.053+0000")
+}
